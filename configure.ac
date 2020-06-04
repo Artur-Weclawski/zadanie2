@@ -1,0 +1,14 @@
+
+AC_INIT([zadanie2], [0.1v])
+
+AM_INIT_AUTOMAKE
+
+AC_LANG(C++)
+
+AC_PROG_CXX
+
+AC_CONFIG_FILES([Makefile])
+
+AC_CONFIG_MACRO_DIRS([m4])
+
+AC_OUTPUT
