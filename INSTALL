@@ -1,0 +1,17 @@
+Zadanie2 0.1v (podpunkt a)
+
+Jak zainstalowac program
+
+1. Musisz miec zainstalowane autoconf, automake, oraz kompilator(gcc).
+
+2. Wypakuj program do wczesniej utworzonego katalogu (np. program)
+(tar -xzvf main.tar.gz -C /'program')
+
+3.Wpisz polecenie aclocal
+		  autoconf
+		  automake
+		  ./configure
+		  make
+(program zostal skompilowany)
+
+4.Aby go uruchomic poprzez terminal nalezy wpisac ./main
