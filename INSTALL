@@ -5,7 +5,7 @@ Jak zainstalowac program
 1. Musisz miec zainstalowane autoconf, automake, oraz kompilator(gcc).
 
 2. Wypakuj program do wczesniej utworzonego katalogu (np. program)
-(tar -xzvf main.tar.gz -C /'program')
+(tar -xzvf zadanie2-0.1v.tar.gz -C /'program')
 
 3.Wpisz polecenie aclocal
 		  autoconf
